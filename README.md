@@ -2,6 +2,7 @@
 ## Task-1: Simple E-commerce Store
 **Description:**
 A simple E-commerce web application built with HTML, CSS, JavaScript, and Django (Python) / Express.js (Node.js).
+
 **Features include**:
 Product listings with detailed pages
 
