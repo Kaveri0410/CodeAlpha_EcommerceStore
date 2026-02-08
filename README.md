@@ -1,7 +1,5 @@
 # CodeAlpha_EcommerceStore
 Task-1: Simple E-commerce Store (Node.js + MongoDB + Frontend)
-# CodeAlpha_EcommerceStore
-
 ## Task-1: Simple E-commerce Store
 
 Built with **Node.js + MongoDB + Frontend (HTML, CSS, JS)**
