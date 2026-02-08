@@ -17,8 +17,8 @@ Built with **Node.js + MongoDB + Frontend (HTML, CSS, JS)**
 ### login page
 ![Login](screenshots/login_success.png)
 
-### Registration page
-![Registration](screenshots/registration_success.png)
+### Register page
+![Register](screenshots/register_success.png)
 
 ### Order Page
 ![Order](screenshots/order_success.png)
