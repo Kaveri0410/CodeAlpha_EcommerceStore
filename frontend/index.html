@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>CodeAlpha E-commerce</title>
+</head>
+<body>
+  <h1>Products</h1>
+  <div id="products"></div>
+
+  <script>
+    fetch("http://127.0.0.1:5000/products")
+      .then(res => res.json())
+      .then(data => {
+        const div = document.getElementById("products");
+        data.forEach(p => {
+          div.innerHTML += `
+            <div>
+              <h3>${p.name}</h3>
+              <p>Price: ₹${p.price}</p>
+              <p>${p.description}</p>
+              <hr>
+            </div>
+          `;
+        });
+      });
+  </script>
+</body>
+</html>
