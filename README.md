@@ -14,6 +14,14 @@ Built with **Node.js + MongoDB + Frontend (HTML, CSS, JS)**
 ### Products Page
 ![Products](screenshots/frontend-products.png)
 
+### login page
+![Login](screenshots/login_success.png)
+
+### Registration page
+![Registration](screenshots/registration_success.png)
+
 ### Order Page
 ![Order](screenshots/order_success.png)
+
+
 
