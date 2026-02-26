@@ -5,11 +5,11 @@ A simple E-commerce web application built with HTML, CSS, JavaScript, and Django
 
 ## 👩‍🎓 Intern Details
 
-Name: Katikala Kaveri 
-Student ID: CA/DF1/23603 
-Internship Domain: Full Stack Development  
-Organization: CodeAlpha  
-Project Name: Simple E-commerce Store  
+Name: Katikala Kaveri
+Student ID: CA/DF1/23603
+Internship Domain: Full Stack Development
+Organization: CodeAlpha
+Project Name: Simple E-commerce Store
 
 **Features include**:
 Product listings with detailed pages
